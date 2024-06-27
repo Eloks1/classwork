@@ -1,0 +1,39 @@
+div{
+	
+	
+}
+
+.mydiv{
+	display: flex;
+	justify-content: right;
+}
+
+div ul li a:hover{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+body{
+	font-family: candara, arial, sans-serif;
+}
+img{
+	max-width: 100%;
+}
+.mylist{
+	list-style-image: url(mark.png);
+}
+
+span{
+	font-weight: bolder;
+	font-size: 30px;
+}
+
+form label{
+	color: white;
+}
+
+input, textarea{
+	background-color: transparent;
+	border-bottom: 3px solid white;
+	color: white;
+}
